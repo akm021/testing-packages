@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "@akhil_intellicar:registry": "https://npm.pkg.github.com"
+    "@akm021:registry": "https://npm.pkg.github.com"
   }
 }
