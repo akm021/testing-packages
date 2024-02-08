@@ -1,6 +1,6 @@
 {
-  "name": "@akm021/test-package",
-  "version": "1.0.1",
+  "name": "@akm021/test-packages",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
